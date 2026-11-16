@@ -1,1 +1,19 @@
-{"account":"clipperjosjis","compose_log":"compose_final.json","earlier_mcp_reply":"https://x.com/clipperjosjis/status/2122131678839902576","extension":"Silvertongue 0.2.2","generation_screenshot":"generation_screenshot.png","installation_screenshot":"installation_screenshot.png","mcp_server":"https://mcp.silvertongue.dev/mcp","mcp_version":"0.1.5","post_data":"post_data.json","posted_at_wib":"2026-11-16 ~10:05","published_reply":"https://x.com/clipperjosjis/status/2122164510303903844","reply_text":"Wait so the bloke standing on the grass gets blamed for losing the game because he had one big pint the night before? He's not even playing. Bollocks.","reply_to":"https://x.com/LUK4DONCIC/status/2121728993137238143","report":"report.md","task":"Dogfood Silvertongue: install the extension and publish only its generated text as one X reply","voice":"Ricky Gervais","voice_id":"ricky-gervais@sha256:37c40627cd09dd1f31e5e927b938497082c59abe8b3f3cfed57fb5ec1e3802b8","voice_packet":"voice_packet.json"}
+{
+  "account": "clipperjosjis",
+  "browser": "Google Chrome 157.0.8103.78",
+  "compose_log": "compose_chrome.json",
+  "extension": "Silvertongue 0.2.2 (Chrome Web Store, id lanedehejpgpanageefmjbfgaeppeidl)",
+  "generated_output": "\"Thrilled to announce\" is the new \"circle back\", isn't it? Every brand launch reads the same now. Three words in & you already know a robot wrote it because no human gives a shit.",
+  "generation_input_view": "generation_input_view.png",
+  "generation_screenshot": "generation_screenshot.png",
+  "installation_screenshot": "installation_screenshot.png",
+  "original_input": "Every brand launch reads exactly the same now. 'Thrilled to announce' is the new 'circle back' - you can tell a bot wrote it from the first three words.",
+  "post_data": "https://cdn.syndication.twimg.com/tweet-result?id=2122184108331892883&lang=en",
+  "published_reply": "https://x.com/clipperjosjis/status/2122184108331892883",
+  "reply_to": "https://x.com/auscaster/status/2120592516592681301",
+  "report": "report.md",
+  "target_tweet": "https://x.com/auscaster/status/2120592516592681301",
+  "voice": "Ricky Gervais",
+  "voice_id": "ricky-gervais@sha256:37c40627cd09dd1f31e5e927b938497082c59abe8b3f3cfed57fb5ec1e3802b8",
+  "voice_packet": "voice_packet.json"
+}
