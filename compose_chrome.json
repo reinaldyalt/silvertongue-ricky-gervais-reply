@@ -1,0 +1,10 @@
+{
+  "voice": "Ricky Gervais",
+  "voice_id": "ricky-gervais@sha256:37c40627cd09dd1f31e5e927b938497082c59abe8b3f3cfed57fb5ec1e3802b8",
+  "target_tweet": "https://x.com/auscaster/status/2120592516592681301",
+  "original_input": "Every brand launch reads exactly the same now. 'Thrilled to announce' is the new 'circle back' - you can tell a bot wrote it from the first three words.",
+  "generated_output": "\"Thrilled to announce\" is the new \"circle back\", isn't it? Every brand launch reads the same now. Three words in & you already know a robot wrote it because no human gives a shit.",
+  "browser": "Google Chrome 157.0.8103.78",
+  "extension": "Silvertongue 0.2.2 (Chrome Web Store, id lanedehejpgpanageefmjbfgaeppeidl)",
+  "method": "extension UI in Chrome (store install), Insert into composer"
+}
