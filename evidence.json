@@ -1,0 +1,14 @@
+{
+  "task": "Dogfood Silvertongue: use it to write one X reply, publish only its generated text",
+  "voice": "Ricky Gervais",
+  "voice_id": "ricky-gervais@sha256:37c40627cd09dd1f31e5e927b938497082c59abe8b3f3cfed57fb5ec1e3802b8",
+  "mcp_server": "https://mcp.silvertongue.dev/mcp",
+  "mcp_version": "0.1.5",
+  "reply_to": "https://x.com/LUK4DONCIC/status/2121728993137238143",
+  "reply_text": "A litre of beer the night before the game. If they lose tomorrow, that pint is getting blamed for everything.",
+  "published_reply": "https://x.com/clipperjosjis/status/2122131678839902576",
+  "account": "clipperjosjis",
+  "posted_at_wib": "2026-11-16 ~07:55",
+  "report": "report.md",
+  "voice_packet": "voice_packet.json"
+}
