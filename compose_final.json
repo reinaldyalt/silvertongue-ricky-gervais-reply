@@ -1,0 +1,16 @@
+{
+  "request": {
+    "requestId": "12a4e359-1c13-4347-88d5-27cdcb99a81b",
+    "voice": "ricky-gervais",
+    "box": "post",
+    "length": "auto",
+    "site": "x",
+    "context": "@LUK4DONCIC: HC drunk and we got a game tomorrow L incoming\n@Savageboston: Mike Vrabel and the Patriots fans in Munich are having a great time",
+    "brief": "The coach drank a litre of beer the night before the game. If they lose tomorrow, that pint is getting blamed for everything.",
+    "language": "en",
+    "edge": "full",
+    "emoji": "off"
+  },
+  "response_sse": "event: revising\ndata: {}\n\nevent: final\ndata: {\"text\":\"Wait so the bloke standing on the grass gets blamed for losing the game because he had one big pint the night before? He's not even playing. Bollocks.\",\"attempts\":2,\"problems\":[],\"unsupportedNumbers\":[],\"fills\":{\"left\":8}}\n\n",
+  "final_text": "Wait so the bloke standing on the grass gets blamed for losing the game because he had one big pint the night before? He's not even playing. Bollocks."
+}
